@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/bambozs.github.io
+/.vs/bambozs.github.io/FileContentIndex
+/.vs/bambozs.github.io/FileContentIndex/06f332aa-7bd2-431f-b48b-ad36b7f45a54.vsidx
+/.vs/bambozs.github.io/FileContentIndex/6749c2c4-9885-4545-8012-1bf3c5056c71.vsidx
+/.vs/bambozs.github.io/v17
+/.vs/bambozs.github.io/v17/.wsuo
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
